@@ -1,7 +1,7 @@
 Plug.DJ AutoWoot update 11/2013
 =====================
 
-* * * IBA PRE GOOGLE CHROME A FIREFOX * * *
+* IBA PRE GOOGLE CHROME, FIREFOX a OPERA
 
 SK:
 Odkaz so záložkou nájdete na stránke http://autowoot.itoffice.sk/

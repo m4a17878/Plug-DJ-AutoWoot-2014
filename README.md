@@ -1,5 +1,8 @@
 Plug.DJ AutoWoot update 11/2013
 =====================
+
+* * * IBA PRE GOOGLE CHROME A FIREFOX * * *
+
 SK:
 Odkaz so záložkou nájdete na stránke http://autowoot.itoffice.sk/
 Chyťte odkaz a presuňte do panelu záložiek. 

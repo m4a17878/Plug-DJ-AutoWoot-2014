@@ -3,7 +3,7 @@ Plug.DJ AutoWoot 2014
 
 * IBA PRE GOOGLE CHROME, FIREFOX a OPERA / ONLY FOR GOOGLE CROME, FIREFOX AND OPERA
 * AutoWoot
-* AutoDJ (now not working correctly, I fix it soon)
+* AutoDJ
 * Hide Video
 * Skip Video
 * Nice skin

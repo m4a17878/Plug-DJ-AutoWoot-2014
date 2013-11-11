@@ -24,6 +24,8 @@ Click and drag to your bookmarks panel.
 
 UPDATY / UPDATES
 =====================
+11.11 (16:36) code updated, AutoDJ repaired
+
 11.11 (10:50) code updated
 
 10.11 (15:55) code updated

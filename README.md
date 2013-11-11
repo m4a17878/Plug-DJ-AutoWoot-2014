@@ -1,19 +1,28 @@
 Plug.DJ AutoWoot update 11/2013
 =====================
 
-* IBA PRE GOOGLE CHROME, FIREFOX a OPERA
+* IBA PRE GOOGLE CHROME, FIREFOX a OPERA / ONLY FOR GOOGLE CROME, FIREFOX AND OPERA
+* AutoWoot
+* AutoDJ (now not working correctly, I fix it soon)
+* Hide Video
+* Skip Video
+* Nice skin
+
+INFO / INFO
+=====================
 
 SK:
 Odkaz so záložkou nájdete na stránke http://autowoot.itoffice.sk/
 Chyťte odkaz a presuňte do panelu záložiek. 
 
-Vytvorené: 10.11.2013
 
 EN:
 Bookmark here: http://autowoot.itoffice.sk/
-Click and grab to your bookmarks panel.
+Click and drag to your bookmarks panel.
 
 
-UPDATES
+
+UPDATY / UPDATES
 =====================
-10.11 (15:55) code updated, please click to your bookmark again!
+11.11 (10:50) code updated
+10.11 (15:55) code updated

@@ -24,6 +24,10 @@ Click and drag to your bookmarks panel.
 
 UPDATY / UPDATES
 =====================
+v1.13:<br>
+updated code
+auto-dj working 100%
+
 v1.11:<br>
 updated auto-dj<br>
 updated some code

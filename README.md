@@ -24,8 +24,12 @@ Click and drag to your bookmarks panel.
 
 UPDATY / UPDATES
 =====================
-11.11 (16:36) code updated, AutoDJ repaired
+v1.11:<br>
+updated auto-dj<br>
+updated some code
 
-11.11 (10:50) code updated
+v1.10<br>
+updated auto-dj
 
-10.11 (15:55) code updated
+v1.00<br>
+Created AutoWoot for new design

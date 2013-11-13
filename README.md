@@ -24,6 +24,11 @@ Click and drag to your bookmarks panel.
 
 UPDATY / UPDATES
 =====================
+v1.15:<br>
+updated code<br>
+new icons<br>
+new userlist skin
+
 v1.13:<br>
 updated code
 auto-dj working 100%

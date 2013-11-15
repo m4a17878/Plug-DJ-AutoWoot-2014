@@ -28,6 +28,9 @@ https://www.facebook.com/pages/PlugDJ-Scripts-2014/139180666256075?fref=ts
 
 UPDATY / UPDATES
 =====================
+v1.61:<br>
+fixed chat bug
+
 v1.16:<br>
 new design<br>
 added drop-down menu to change status (pridané drop-down menu na rýchlu zmenu statusu)

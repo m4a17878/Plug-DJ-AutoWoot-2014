@@ -28,6 +28,10 @@ https://www.facebook.com/pages/PlugDJ-Scripts-2014/139180666256075?fref=ts
 
 UPDATY / UPDATES
 =====================
+v1.7:<br>
++ redesigned userlist
++ show waitlist position in userlist "username (waitlist position)"
+
 v1.61:<br>
 fixed chat bug
 

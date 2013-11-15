@@ -33,27 +33,27 @@ v1.17:<br>
 + show waitlist position in userlist "username (waitlist position)"
 
 v1.61:<br>
-fixed chat bug
++ fixed chat bug
 
 v1.16:<br>
-new design<br>
-added drop-down menu to change status (pridané drop-down menu na rýchlu zmenu statusu)
++ new design<br>
++ added drop-down menu to change status (pridané drop-down menu na rýchlu zmenu statusu)
 
 v1.15:<br>
-updated code<br>
-new icons<br>
-new userlist skin
++ updated code<br>
++ new icons<br>
++ new userlist skin
 
 v1.13:<br>
-updated code
-auto-dj working 100%
++ updated code
++ auto-dj working 100%
 
 v1.11:<br>
-updated auto-dj<br>
-updated some code
++ updated auto-dj<br>
++ updated some code
 
 v1.10<br>
-updated auto-dj
++ updated auto-dj
 
 v1.00<br>
-Created AutoWoot for new design
++ Created AutoWoot for new design
